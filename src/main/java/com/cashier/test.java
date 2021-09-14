@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
-//王莹test
+//王莹
 @Controller
 @RequestMapping("/test")
 public class test {
