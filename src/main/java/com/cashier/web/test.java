@@ -1,4 +1,4 @@
-package com.cashier;
+package com.cashier.web;
 
 import com.cashier.entity.PayOrder;
 import com.cashier.service.PayOrderService;
